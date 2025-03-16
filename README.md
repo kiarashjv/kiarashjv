@@ -8,7 +8,6 @@ I'm a **full-stack developer** with a strong focus on **Java (Spring Boot)** and
 - 👯 I’m looking to collaborate on **open-source projects** and **innovative SaaS solutions**.
 - 💬 Ask me about **Spring Boot**, **React**, **Next.js**, or **Remix**.
 - 📫 How to reach me: [Your Email or Social Media Links].
-- 😄 Pronouns: He/Him.
 - ⚡ Fun fact: I once automated a 400-customer Excel-to-Word task in under an hour!
 
 ---
