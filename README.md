@@ -38,6 +38,10 @@ Here are some of the projects I'm proud of:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kiarashjv&layout=compact&theme=radical)
 
+![Profile Views](https://komarev.com/ghpvc/?username=kiarashjv&color=blue)
+
+![Total Commits](https://img.shields.io/badge/Total%20Commits-800-blue)
+
 ---
 
 ### Let's Connect!
