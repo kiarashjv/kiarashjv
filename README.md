@@ -39,7 +39,7 @@ Here are some of the projects I'm proud of:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kiarashjv&color=blue)
 
-![Total Commits](https://img.shields.io/badge/Total%20Commits-800-blue)
+![Total Commits](https://img.shields.io/badge/Total%20Commits-3300+-blue)
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kiarashjv)](https://github.com/anuraghazra/github-readme-stats)
 
