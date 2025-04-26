@@ -3,12 +3,9 @@
 ### About Me
 I'm a **full-stack developer** with a strong focus on **Java (Spring Boot)** and **JavaScript (React, Next.js, Remix)**. I love building scalable, efficient, and user-friendly applications. When I'm not coding, I enjoy automating repetitive tasks and exploring new technologies.
 
-- 🔭 I’m currently working on **web applications** and **Telegram bots**.
-- 🌱 I’m currently diving deeper into **Remix** and **microservices architecture**.
-- 👯 I’m looking to collaborate on **open-source projects** and **innovative SaaS solutions**.
-- 💬 Ask me about **Spring Boot**, **React**, **Next.js**, or **Remix**.
-- 📫 How to reach me: [Your Email or Social Media Links].
-- ⚡ Fun fact: I once automated a 400-customer Excel-to-Word task in under an hour!
+- 🌱 I’m currently diving deeper into **.NET**, **Remix** and **microservices architecture**.
+- 👯 I’m looking to collaborate on **startup projects** and **innovative SaaS solutions**.
+- 📫 How to reach me: Kiarashjv@gmail.com.
 
 ---
 
@@ -17,18 +14,19 @@ I'm a **full-stack developer** with a strong focus on **Java (Spring Boot)** and
 - **Frontend**: React, Next.js, Remix, TypeScript
 - **Databases**: PostgreSQL, MySQL
 - **DevOps**: Docker, GitHub Actions, CI/CD
-- **Other**: Microservices, REST APIs, Bots, Automation
+- **Other**: Microservices, REST APIs, Bots, Automation ...
 
 ---
 
 ### Featured Projects
 Here are some of the projects I'm proud of:
 
+- **[Localized BPMS]**: A localized BPMS platform with added features like dynamic reporting & cms using **Spring Boot** and **React**.
+- **[WorkFlow BPMS]**: A microservice-based bpms with using Camunda 7 as engine and **Spring Boot* backends with **NextJS** for frontend.
 - **[Task Management System](https://github.com/kiarashjv/task-management-system)**: A microservices-based task management system built with **Spring Boot** and **Next.js**.
 - **[SaaS-LeadSystem](https://github.com/kiarashjv/SaaS-LeadSystem)**: A lead management system with AI-based lead qualification, built with **C#**.
-- **[DTexRobot](https://github.com/kiarashjv/dtexrobot)**: A Telegram music bot built with **Go**.
+- **[DTexRobot](https://github.com/kiarashjv/dtexrobot)**: A Telegram music bot built with **Go** (The first version was in **Python**).
 - **[Excel-to-Word](https://github.com/kiarashjv/excel-to-word)**: A **Python** script to automate transferring data from Excel to Word and exporting it as PDF.
-- **[Iran States and Cities](https://github.com/kiarashjv/iran-states-and-cities)**: A JSON dataset of Iran's states and cities.
 
 ---
 
