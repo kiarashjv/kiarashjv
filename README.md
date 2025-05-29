@@ -5,7 +5,7 @@ I'm a **full-stack developer** with a strong focus on **Java (Spring Boot)** and
 
 - 🌱 I’m currently diving deeper into **.NET**, **Remix** and **microservices architecture**.
 - 👯 I’m looking to collaborate on **startup projects** and **innovative SaaS solutions**.
-- 📫 How to reach me: Kiarashjv@gmail.com.
+- 📫 How to reach me: dev.kiarash@gmail.com.
 
 ---
 
