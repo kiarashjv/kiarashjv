@@ -10,9 +10,9 @@ I'm a **full-stack developer** with a strong focus on **Java (Spring Boot)** and
 ---
 
 ### My Expertise
-- **Backend**: Java (Spring Boot), Python, Go, C#
+- **Backend**: Java (Spring Boot), C#, Python, Go,
 - **Frontend**: React, Next.js, Remix, TypeScript
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: PostgreSQL, SQL Server
 - **DevOps**: Docker, GitHub Actions, CI/CD
 - **Other**: Microservices, REST APIs, Bots, Automation ...
 
